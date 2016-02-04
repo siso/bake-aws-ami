@@ -2,6 +2,8 @@
 
 blog post: *TBA*
 
+Build Amazon AMI with [Ansible](http://www.ansible.com/).
+
 ## Quickstart
 
 Install [Ansible](http://www.ansible.com/) and [boto](https://github.com/boto/boto):
